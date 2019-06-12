@@ -57,7 +57,7 @@ public class NotePad extends JFrame{
    
    public void addNewFileFeature() {
 	   fm.add(nf);
-       nf.addActionListener(new java.awt.event.ActionListener() {            
+	   nf.addActionListener(new java.awt.event.ActionListener() {            
     	   public void actionPerformed(ActionEvent evt) {              
     		   d.setText("");            
     	   }
