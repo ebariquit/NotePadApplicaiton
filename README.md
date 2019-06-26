@@ -1,4 +1,4 @@
-# NotePad_App
+# NotePadApplication
 
 Bellevue College
 
