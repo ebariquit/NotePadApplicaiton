@@ -1,7 +1,6 @@
 # NotePadApplication
 
-Bellevue College
-
+Bellevue College, Spring 2019
 CS410: Software Engineering - Assignment 3
 
-Objective: Write and refactor code
+Objective: Create a simple notepad application for desktop.
